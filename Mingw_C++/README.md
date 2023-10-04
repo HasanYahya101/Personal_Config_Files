@@ -1,4 +1,4 @@
-## VSCode MinGW C++ Configurations
+# VSCode MinGW C++ Configurations
 
 The [`.vscode`](./.vscode) directory in this repository contains essential Visual Studio Code (VSCode) configurations for building, running, and debugging C++ code using the MinGW toolchain. Here's an overview of the files and their purposes:
 
