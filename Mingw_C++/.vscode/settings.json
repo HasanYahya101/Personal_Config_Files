@@ -7,6 +7,24 @@
     "editor.indentSize": "tabSize",
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
+    //comments should be italic
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "comment.block",
+                    "comment.block.documentation",
+                    "comment.line",
+                    "punctuation.definition.comment"
+                ],
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            }
+        ]
+    },
+    // Note that there are going to be more files assosiations than this, so change or add as per your need
     "files.associations": {
         "iostream": "cpp",
         "cctype": "cpp",
@@ -58,6 +76,8 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "cinttypes": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "csetjmp": "cpp",
+        "csignal": "cpp",
     }
 }
