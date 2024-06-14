@@ -9,7 +9,7 @@ This repository serves as a collection of my personal configuration files for va
 3. Other Files
 4. License
 
-__Note:__ You may not Find all Files listed above but this Repo is for my own Personal Use.
+__Note:__ You may not Find all Files listed above. This Repo is for my own Personal Use.
 
 ## Details
 
